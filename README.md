@@ -1,2 +1,6 @@
 # Flappy-Bird-Replica
-Flappy Bird Replica in Unity
+## Flappy Bird Replica in Unity
+
+Game screen shot V
+
+![d](https://github.com/bozalp/Flappy-Bird-Replica/blob/master/screen-shot.png)
